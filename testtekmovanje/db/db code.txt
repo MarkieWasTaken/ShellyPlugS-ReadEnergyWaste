@@ -1,0 +1,6 @@
+CREATE TABLE "tabela" (
+  "id" serial PRIMARY KEY,
+  "poraba" int,
+  "cas" timestamp,
+  "tarifa" real
+);
